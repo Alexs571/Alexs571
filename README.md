@@ -52,7 +52,7 @@
 | [Plataforma de Gestión Deportiva](https://github.com/jdario9912/tp-integrador-final) | App web para entrenadores y atletas: rutinas, entrenamientos, alimentación y progreso. TP Integrador Final de la UTN, en equipo (37 PRs entre backend y frontend). | Spring Boot · PostgreSQL · JWT · Supabase Storage · React · TypeScript · Docker |
 | [Food Store](https://github.com/Alexs571/programacion-4) | Tienda de comidas con API REST, autenticación JWT y panel web. | FastAPI · SQLModel · React · Tailwind |
 | [Sistema de gestión de comidas](https://github.com/Alexs571/Sistema-de-gestion-comidas-) | Sistema para gestionar pedidos y comidas. | — |
-| [Programación 1 UTN](https://github.com/Alexs571/Progrmacion1_UTN) | Trabajos de la materia Programación 1. | — |
+
 
 ### 🏋️ Mi aporte en la Plataforma de Gestión Deportiva
 
