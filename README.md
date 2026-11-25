@@ -67,16 +67,62 @@ Trabajo en equipo con ramas por historia de usuario (US) y Pull Requests: **19 P
 | **Atletas y perfil** | Perfil propio, cambio de contraseña y foto de perfil. | Ficha del atleta y página Mi perfil (datos, foto y contraseña). |
 | **Despliegue** | — | Rewrite de la SPA en Vercel. |
 
-## 📊 Estadísticas de GitHub
+<details>
+<summary><b>📌 Ver mis Pull Requests (backend · 19)</b></summary>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alexs571&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexs571&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexs571&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
+Repositorio `tpif-backend`.
+
+- #33 · Perfil propio, contraseña y foto de perfil (US-48)
+- #32 · Registro de medidas corporales (US-45)
+- #28 · Día que toca según el último entrenamiento finalizado (US-12)
+- #27 · Resumen nutricional del día (US-24)
+- #26 · Historial y revisión de entrenamientos (US-21)
+- #25 · Finalizar o cancelar entrenamiento (US-20)
+- #24 · Registro de comidas del atleta (US-23)
+- #23 · Fotos de progreso con URLs firmadas (US-28)
+- #22 · Registro de series en vivo (US-19)
+- #21 · Iniciar entrenamiento
+- #20 · Consultar mi rutina
+- #16 · Registro de peso corporal del atleta (US-26)
+- #12 · PoC de URLs firmadas con Supabase Storage
+- #9 · Roles y pertenencia
+- #8 · Logout
+- #7 · Login con JWT
+- #4 · Excepciones globales
+- #3 · Entidades JPA
+- #15 · Cerrado sin mergear (abierto por error, sus cambios ya estaban en `main`)
+
+</details>
+
+<details>
+<summary><b>📌 Ver mis Pull Requests (frontend · 18)</b></summary>
+
+<br>
+
+Repositorio `tpif-frontend`.
+
+- #31 · Rewrite de la SPA en Vercel
+- #30 · Página Mi perfil con datos, foto y contraseña (US-48)
+- #29 · Medidas corporales y su evolución en progreso (US-45)
+- #26 · Evolución del peso y galería cronológica en progreso (US-29)
+- #24 · Panel del atleta con lo importante del día (US-12)
+- #23 · Resumen nutricional y navegación por días (US-24)
+- #22 · Historial y revisión de entrenamientos (US-21)
+- #21 · Finalizar o cancelar el entrenamiento (US-20)
+- #20 · Página Comidas con el registro del día (US-23)
+- #19 · Fotos de progreso en la página de progreso (US-28)
+- #18 · Registro de series en el entrenamiento en curso (US-19)
+- #17 · Iniciar entrenamiento
+- #16 · Página Mi rutina del atleta (US-17)
+- #12 · Página Progreso con registro de peso y último peso en la ficha (US-26)
+- #9 · Ficha del atleta (US-09)
+- #5 · Role guard
+- #4 · Logout
+- #3 · Login
+
+</details>
 
 ---
 
